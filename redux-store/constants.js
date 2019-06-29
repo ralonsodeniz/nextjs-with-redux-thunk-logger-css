@@ -1,0 +1,7 @@
+export const TICK = "TICK";
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const RESET = "RESET";
+export const REQUEST_USER_PENDING = "REQUEST_USER_PENDING";
+export const REQUEST_USERS_SUCCESS = "REQUEST_USERS_SUCCESS";
+export const REQUEST_USERS_FAILED = "REQUEST_USERS_FAILED";
